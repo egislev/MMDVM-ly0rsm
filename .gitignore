@@ -1,5 +1,4 @@
 *.o
 obj/
-bin/
 GitVersion.h
 build/
